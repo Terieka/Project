@@ -1,0 +1,38 @@
+html
+{
+	background-color:#9e59e3;
+	font-size:15px;
+}
+
+#header
+{
+	
+	font-family:"Verdana";
+	text-align:Center;
+	text-size:50px;
+}
+
+ p 
+{
+	text-align:left;
+}
+
+
+
+.pic 
+{
+	position: absolute;
+	top: 0%;
+	right: 0%;
+	float:right;
+}
+.Title
+{}
+.Description
+{
+	text-align:center;
+	
+}
+
+
+
